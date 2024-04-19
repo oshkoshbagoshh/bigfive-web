@@ -5,6 +5,8 @@
 
 Further development of this website is done over at [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web)
 
+The link for our online big five traits survey is at https://bigfive-test.com
+
 # bigfive-web
 
 Website for five factor model of personality based on work from [IPIP-NEO-PI](https://github.com/kholia/IPIP-NEO-PI).
